@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Zarni Yeyint 👋
 
-<!--
-**ZarniYeyint378/ZarniYeyint378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Mechanical Engineering Student | Aspiring Aerospace Mechanic
 
-Here are some ideas to get you started:
+I am a Mechanical Engineering student with a deep passion for aviation and aircraft mechanics. Right now, I am using my foundational mechanical engineering background to self-teach the ins and outs of aerospace structures and propulsion systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Focus Areas
+* 📚 **Currently Studying:** Core Mechanical Engineering (CAD, Thermodynamics, Materials).
+* ✈️ **Learning Path:** Aerospace maintenance, aerodynamics, and aircraft mechanics.
+* 💻 **Tools:** [e.g., SolidWorks, MATLAB]
+
+---
+
+*"The engine is the heart of an airplane, but the pilot is its soul."*
