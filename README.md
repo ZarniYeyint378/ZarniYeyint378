@@ -9,7 +9,7 @@ I am a Mechanical Engineering student with a deep passion for aviation and aircr
 ### 🚀 Focus Areas
 * 📚 **Currently Studying:** Core Mechanical Engineering (CAD, Thermodynamics, Materials).
 * ✈️ **Learning Path:** Aerospace maintenance, aerodynamics, and aircraft mechanics.
-* 💻 **Tools:** [e.g., SolidWorks, MATLAB]
+* 💻 **Tools:** [SolidWorks, MATLAB]
 
 ---
 
